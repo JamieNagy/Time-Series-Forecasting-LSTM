@@ -1,0 +1,11 @@
+pandas
+matplotlib
+seaborn
+numpy
+scipy
+sklearn
+sktime
+pmdarima
+pytorch-lightning
+torch
+statsmodels
