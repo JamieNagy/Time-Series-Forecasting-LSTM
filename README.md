@@ -40,23 +40,6 @@ The trained model provides learned vector embeddings for each store, which can b
 
 ---
 
-## Installation
-
-To install the required dependencies, run:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-To run this project, follow these steps:
-
-1. Clone or download the repository.
-2. Install dependencies with the above command.
-3. Launch Jupyter Notebook:
-4. Open the relevant notebook (`Time_Series_Business_Sales.ipynb`) and run the cells to preprocess data, train the model, and evaluate results.
-
 ## Results
 
 The project produces a time series forecasting model capable of accurately predicting sales across multiple stores and product families, with extensive use of feature engineering, PyTorch embeddings, and autoregressive modeling.
